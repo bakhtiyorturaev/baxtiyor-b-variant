@@ -38,6 +38,5 @@ def test2_generatsiya(file_name):
             yosh_xususiyati = yoshi_tub_yoki_toq(yosh % 2)
             file.write(f"{ism:<20} {yosh} {yosh_xususiyati}\n")
 
-
 test1_generatsiya("test1.txt")
 test2_generatsiya("test2.txt")
