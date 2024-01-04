@@ -11,5 +11,6 @@ def tub_sonlarni_tartiblash(f):
 def lists(a):
     return a
 
+
 A = ['a', 1, 2, 'sd', 11, 17, 21, 'fhjaf', 23, 25]
 lists(A)
