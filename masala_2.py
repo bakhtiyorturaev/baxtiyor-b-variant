@@ -39,5 +39,6 @@ def test2_generatsiya(file_name):
             file.write(f"{ism:<20} {yosh} {yosh_xususiyati}\n")
 
 
+
 test1_generatsiya("test1.txt")
 test2_generatsiya("test2.txt")
