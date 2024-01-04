@@ -38,7 +38,7 @@ print(f"{son} songacha bolgan tub sonlar: {natija}")
 
 
 
-                                            # 2-masala
+                                          # 2-masala
 import asyncio
 from time import perf_counter
 
